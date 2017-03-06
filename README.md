@@ -10,5 +10,5 @@ Imagine we run a bike sharing business and want to estimate the amount of bikes 
 * Ensure you have `numpy`, `matplotlib`, `pandas`, and `jupyter notebook` installed.
 * Run the notebook `jupyter notebook numpy-neural-network.ipynb`
 
-## Data
+### Data
 The data comes from the [UCI Machine Learning Database](https://archive.ics.uci.edu/ml/datasets/Bike+Sharing+Dataset).
